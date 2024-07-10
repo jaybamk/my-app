@@ -1,3 +1,5 @@
+@import '~bootstrap/scss/bootstrap';
+
 :root {
   --max-width: 1100px;
   --border-radius: 12px;
@@ -106,7 +108,7 @@ a {
   }
 }
 
-.d-flex {
+/*.d-flex {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -114,4 +116,6 @@ a {
 
 .w-100{
   width: 100%;
-}
+} */
+
+
